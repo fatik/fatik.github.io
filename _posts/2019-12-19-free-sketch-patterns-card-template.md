@@ -4,7 +4,7 @@ title: "Free Sketch Card Background Patterns"
 author: "Fatik Owais"
 categories: freebie
 tags: [freebie,sketch]
-image: website-headers.jpg
+image: pattern-cards.jpg
 ---
 
 In a hurry. Hope you like em
