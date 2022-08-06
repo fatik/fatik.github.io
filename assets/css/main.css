@@ -204,7 +204,7 @@ blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
   border-left: 0.25em solid #ccc;
-  color: #999;
+  color: #2b2b2b;
   line-height: 1.5;
 }
 
@@ -252,7 +252,7 @@ hr {
 }
 
 .masthead-subtitle {
-  color: #999;
+  color: #2b2b2b;
 }
 
 /*
@@ -328,7 +328,7 @@ hr {
 }
 
 .pagination-button {
-  color: #999;
+  color: #2b2b2b;
   border: 1px solid #e0e0e0;
   padding: 15px 45px;
   display: inline-block;
@@ -349,13 +349,13 @@ hr {
 */
 
 .footer {
-  color: #999;
+  color: #2b2b2b;
   text-align: center;
   margin: 2rem;
 }
 
 .footer a {
-  color: #999;
+  color: #2b2b2b;
   padding: 10px;
   text-decoration: none;
 }
@@ -378,7 +378,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #2b2b2b;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -388,7 +388,7 @@ hr {
 }
 
 .social-icons a {
-  color: #999;
+  color: #2b2b2b;
   font-size: 1rem;
 }
 
